@@ -21,6 +21,9 @@ Thumbs.db
 .env
 .env.*
 
+# Environment variables
+.env
+
 # Large generated files
 *.pkl
 *.joblib
@@ -28,3 +31,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 data/raw/koel.xls
+
+# Python distribution files
+*.egg-info/
