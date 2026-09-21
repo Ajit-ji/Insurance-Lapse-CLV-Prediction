@@ -27,3 +27,4 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+data/raw/koel.xls
