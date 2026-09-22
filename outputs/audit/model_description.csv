@@ -1,0 +1,6 @@
+Item,Description
+Model,Random Survival Forest
+Task,Time-to-event survival prediction
+Model Evaluation,C-index and Integrated Brier Score
+Baseline Comparison,RSF has a lower Brier Score than the baseline
+Value Calculation,Annual Premium × Duration in Years

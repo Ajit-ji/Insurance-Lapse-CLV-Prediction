@@ -1,0 +1,3 @@
+Model,Test_Concordance_Index,Model_Type
+Cox Proportional Hazards,0.5666,Statistical survival model
+Random Survival Forest,0.5749,Machine learning survival model

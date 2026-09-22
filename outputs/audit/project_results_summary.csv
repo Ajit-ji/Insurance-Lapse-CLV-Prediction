@@ -1,0 +1,6 @@
+Metric,Value
+Test dataset size,15000
+Cox test concordance index,0.5666
+RSF test concordance index,0.5749
+Number of RSF risk quartiles,4
+CLV measurement,Premium-based observed value proxy

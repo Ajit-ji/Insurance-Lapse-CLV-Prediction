@@ -1,0 +1,6 @@
+Metric,Value
+RSF Test C-index,0.5749
+RSF Integrated Brier Score,0.0524
+Baseline Integrated Brier Score,0.0536
+Brier Score Improvement,0.0011999999999999997
+Test Samples,15000.0
